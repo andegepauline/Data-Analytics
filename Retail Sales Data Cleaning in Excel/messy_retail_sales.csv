@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer_Name,Region,Product,Quantity,Unit_Price
+1001,2024-01-05,Alice Johnson,North,Laptop,1.0,1200
+1002,05/02/2024,bob smith ,south,Mouse,2.0,25
+1003,2024/03/07,CHARLIE BROWN,EAST,Keyboard,1.0,45
+1004,April 8 2024,Alice Johnson,West ,Laptop,1.0,1200
+1005,2024-05-10,David Lee,North,Monitor,2.0,300
+1005,2024-05-10,David Lee,North,Monitor,2.0,300
+1006,2024-06-15,Eve Adams,east,Mouse,3.0,25
+1007,15-07-2024,Frank Moore,WEST,Keyboard,,45
+1008,2024-08-20, grace kim,South,Laptop,1.0,1200
+1009,,Henry Ford,North,Mouse,2.0,25
