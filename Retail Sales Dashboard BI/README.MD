@@ -1,21 +1,21 @@
-# Retail Sales Performance Dashboard – Power BI Project
+#  🛒 Retail Sales Performance Dashboard – Power BI Project 📊
 
-## Project Overview
+## Project Overview 🎯
 
 This is a Power BI project I created to analyze sales performance for a retail company.  
 The goal was to understand:
 
-- Which products and categories sell the most  
-- Which regions are performing well  
-- How discounts affect profit  
-- Sales trends over time  
-- Top-performing sales reps  
+- 🏷️ Which products and categories sell the most  
+- 🌎 Which regions are performing well  
+- 💸 How discounts affect profit  
+- 📈 Sales trends over time  
+- 🧑‍💼 Top-performing sales reps  
 
 The dashboard helps the manager make better business decisions based on sales data.
 
 ---
 
-## Dataset
+##  📂 Dataset
 
 The project uses a dataset with 5 tables:
 
@@ -27,7 +27,7 @@ The project uses a dataset with 5 tables:
 
 ---
 
-## Data Cleaning & Modeling
+## Data Cleaning & Modeling 🧹💻
 
 I cleaned the data using Power Query by:
 
@@ -58,7 +58,7 @@ These measures are used in the dashboard visuals.
 
 ---
 
-## Dashboard Visuals
+## 🖼️ Dashboard Visuals
 
 - **KPI Cards** – Revenue, Profit, Orders, Profit Margin  
 - **Line Chart** – Monthly Sales Trend  
@@ -72,7 +72,7 @@ The dashboard is interactive and lets the user explore data by region, product, 
 
 ---
 
-## Key Insights
+## 💡 Key Insights
 
 - Electronics is the top-selling category  
 - West region has the highest sales; South is underperforming  
@@ -82,7 +82,7 @@ The dashboard is interactive and lets the user explore data by region, product, 
 
 ---
 
-## Recommendations
+## ✅ Recommendations
 
 - Reduce very high discounts on popular products  
 - Focus marketing efforts on low-performing regions  
@@ -99,20 +99,20 @@ The dashboard is interactive and lets the user explore data by region, product, 
 
 ---
 
-## Files
+## 📁Files
 
 - `UrbanCart_Retail_Sales_Performance.pbix` – Power BI report  
 - `UrbanCart_PowerBI_rawdata.xlsx` – Dataset  
 
 ---
 
-## Skills Practiced
+## Skills Practiced 🛠️
 
-- Data cleaning and transformation (Power Query)  
-- Data modeling and relationships  
-- DAX calculations (measures & columns)  
-- Creating interactive dashboards  
-- Data analysis and insight generation  
+- 🧹 Data cleaning and transformation (Power Query)  
+- 🔗 Data modeling and relationships  
+- 🧮 DAX calculations (measures & columns)  
+- 📊 Creating interactive dashboards  
+- 💡 Data analysis and insight generation   
 
 ---
 
